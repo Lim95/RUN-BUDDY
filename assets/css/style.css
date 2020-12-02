@@ -71,6 +71,7 @@ background-size: cover;
 background-position: center;
 position: relative;
 }
+
 .hero-form {
 background-color: #fce138;
 padding: 20px;
@@ -254,4 +255,45 @@ background: #fce138;
 
 .contact-info a {
   color: #fce138;
+}
+/*--------------------------------------------------------------*/
+/*-------------privacy-policy.html------------------------------*/
+/*--------------------------------------------------------------*/
+.page-title {
+  border-bottom: 4px solid;
+  border-color: #fce138;
+  color: #fce138;
+  display: inline-block;
+  font-weight: normal;
+  font-size: 42px;
+  font-style: italic;
+  margin-bottom: 35px;
+  padding: 0 80px 15px 80px;
+}
+/*--------------------------------------------------------------*/
+.secondary-content {
+    width: 80%;
+    margin: 0px auto;
+    color: #024e76;
+
+}
+
+.secondary-content h3 {
+  font-size: 25px;
+  margin: 20px 0px 20px 0px;
+}
+
+.secondary-content p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 20px 0px 20px 0px;
+}
+
+.secondary-content ul {
+  margin: 15px 20px 15px 20px;
+}
+
+.secondary-content li {
+  color: #39a6b2;
+  margin: 10px 0px 10px 0px;
 }
